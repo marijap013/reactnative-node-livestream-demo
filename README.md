@@ -35,7 +35,8 @@
 
 ## Clone RTMP-Server
 
-[https://github.com/nayyaung9/rtmp-server-livestream](https://github.com/nayyaung9/rtmp-server-livestream)
+
+https://github.com/marijap013/rmtp-server-livestream-demo
 
 ### Install
 
