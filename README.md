@@ -13,8 +13,8 @@
 
 ## Clone JSON-Server
 
-[https://github.com/nayyaung9/json-database-livestream](https://github.com/nayyaung9/json-database-livestream)
 
+https://github.com/marijap013/jsonserver-livestream-demo
 ### Install
 
 `yarn install (or) npm install`
